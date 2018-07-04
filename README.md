@@ -1,1 +1,4 @@
 # DnsMonitor
+
+pip install dnspython
+
