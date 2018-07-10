@@ -10,6 +10,7 @@ def query(server, domain, port=53, type='A'):
         rs = set()
         for l in ls:
             fs = filter(None, l.split())
+            print(repr(fs))
             rs.add((fs[-1], fs[-2]))
         return rs
     return None
@@ -18,15 +19,18 @@ def main():
     a_time = time.time()
     times = 100
     ql = list()
-    ql.append(('www.baidu.com.', 'A'))
-    ql.append(('www.baidu.com.', 'CNAME'))
-    ql.append(('baidu.com.', 'A'))
-    ql.append(('baidu.com.', 'NS'))
-    ql.append(('baidu.com.', 'MX'))
+    ql.append(('www.icbc.com.cn.', 'CNAME'))
+    ql.append(('mybank.icb.com.cn.', 'CNAME'))
+    ql.append(('icbc.com.cn.', 'A'))
+    ql.append(('icbc.com.cn.', 'NS'))
+    ql.append(('icbc.com.cn.', 'MX'))
     for i in xrange(times):
-        q = random.choice(ql)
+        idx = i % len(ql)
+        idx = 3
+        #q = random.choice(ql)
+        q = ql[idx]
         print("Q: %s" % repr(q))
-        print("R: %s" % repr(query(server="192.168.8.1", domain=q[0], type=q[1])))
+        print("R: %s" % repr(query(server="8.8.8.8", domain=q[0], type=q[1])))
     d_time = time.time() - a_time
     print("%d times in %.3fms" % (times, d_time))
 #

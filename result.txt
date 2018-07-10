@@ -1,0 +1,646 @@
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '4482', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '4482', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '4482', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '4482', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '4482', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '4482', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14833', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14833', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14833', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14833', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14833', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14833', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '2856', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '2856', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '2856', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '2856', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '2856', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '2856', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14754', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14754', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14754', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14754', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14754', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14754', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '17904', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '17904', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '17904', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '17904', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '17904', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '17904', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13986', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13986', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13986', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13986', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13986', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13986', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13633', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13633', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13633', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13633', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13633', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13633', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14135', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14135', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14135', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14135', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14135', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14135', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3705', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3705', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '3705', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3705', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3705', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3705', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '18604', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '4704', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '4704', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '4704', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '4704', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '4704', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '4704', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '10424', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '10424', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '10424', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '10424', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '10424', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '10424', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '18604', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '18604', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13241', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13241', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13241', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13241', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13241', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13241', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3867', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3867', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '3867', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3867', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3867', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3867', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14965', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14965', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14965', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14965', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14965', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14965', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12633', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12633', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12633', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12633', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12633', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12633', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14790', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14790', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14790', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14790', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14790', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14790', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14014', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14014', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14014', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14014', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14014', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14014', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3646', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '3646', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3646', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3646', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3646', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3646', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14904', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14904', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14904', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14904', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14904', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14904', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13211', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13211', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13211', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13211', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13211', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13211', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '17834', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '17834', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '17834', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '17834', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '17834', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '17834', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '4339', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '4339', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '4339', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '4339', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '4339', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '4339', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14681', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14681', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14681', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14681', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14681', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14681', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '1943', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '1943', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '1943', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '1943', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '1943', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '1943', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12601', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12601', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12601', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12601', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12601', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12601', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3657', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '3657', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3657', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3657', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3657', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3657', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '6800', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '6800', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '6800', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '6800', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '6800', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '6800', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13110', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13110', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13110', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13110', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13110', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13110', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12595', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12595', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12595', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12595', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12595', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12595', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14923', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14923', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14923', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14923', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14923', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14923', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '6264', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '6264', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '6264', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '6264', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '6264', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '6264', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '8157', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '8157', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '8157', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '8157', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '8157', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '8157', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14685', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14685', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14685', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14685', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14685', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14685', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '18577', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '18577', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '18577', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '18577', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '18577', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '18577', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '4129', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '4129', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '4129', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '4129', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '4129', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '4129', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12589', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12589', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12589', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12589', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12589', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12589', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '1942', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '1942', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '1942', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '1942', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '1942', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '1942', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3841', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3841', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '3841', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3841', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3841', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3841', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14163', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14163', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14163', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14163', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14163', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14163', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12590', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12590', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12590', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12590', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12590', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12590', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12360', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12360', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12360', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12360', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12360', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12360', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '1900', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '1900', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '1900', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '1900', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '1900', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '1900', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '1987', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '1987', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '1987', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '1987', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '1987', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '1987', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14889', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14889', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14889', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14889', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14889', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14889', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12799', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12799', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12799', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12799', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12799', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12799', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12387', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12387', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12387', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12387', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12387', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12387', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14765', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14765', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14765', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14765', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14765', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14765', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14359', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14359', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14359', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14359', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14359', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14359', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '5615', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '5615', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '5615', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '5615', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '5615', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '5615', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '5951', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '5951', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '5951', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '5951', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '5951', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '5951', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3640', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '3640', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3640', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3640', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3640', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3640', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12564', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12564', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12564', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12564', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12564', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12564', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14992', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14992', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14992', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14992', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14992', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14992', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14609', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14609', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14609', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14609', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14609', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14609', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '4110', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '4110', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '4110', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '4110', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '4110', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '4110', 'IN', 'NS', 'shtns.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+[';;', 'connection', 'timed', 'out;', 'no', 'servers', 'could', 'be', 'reached']
+R: set([('reached', 'be')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '19368', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '19368', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '19368', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '19368', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '19368', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '19368', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13388', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13388', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13388', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13388', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13388', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13388', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '2735', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '2735', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '2735', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '2735', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '2735', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '2735', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '18336', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '18336', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '18336', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '18336', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '18336', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '18336', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '18853', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '18853', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '18853', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '18853', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '18853', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '18853', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '6027', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '6027', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '6027', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '6027', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '6027', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '6027', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '12755', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '12755', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '12755', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '12755', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '12755', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '12755', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14197', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14197', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14197', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14197', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '14197', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14197', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '13911', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '13911', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '13911', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '13911', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '13911', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '13911', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '3816', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '3816', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '3816', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '3816', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '3816', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '3816', 'IN', 'NS', 'cns2.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '20506', 'IN', 'NS', 'tns1.icbc.com.cn.']
+['icbc.com.cn.', '20506', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '20506', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '20506', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '20506', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '20506', 'IN', 'NS', 'shuni.icbc.com.cn.']
+R: set([('shuni.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('cns2.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+Q: ('icbc.com.cn.', 'NS')
+['icbc.com.cn.', '14138', 'IN', 'NS', 'shtns.icbc.com.cn.']
+['icbc.com.cn.', '14138', 'IN', 'NS', 'bjtns2.icbc.com.cn.']
+['icbc.com.cn.', '14138', 'IN', 'NS', 'shuni.icbc.com.cn.']
+['icbc.com.cn.', '14138', 'IN', 'NS', 'ns114.icbc.com.cn.']
+['icbc.com.cn.', '14138', 'IN', 'NS', 'cns2.icbc.com.cn.']
+['icbc.com.cn.', '14138', 'IN', 'NS', 'tns1.icbc.com.cn.']
+R: set([('cns2.icbc.com.cn.', 'NS'), ('shtns.icbc.com.cn.', 'NS'), ('shuni.icbc.com.cn.', 'NS'), ('ns114.icbc.com.cn.', 'NS'), ('bjtns2.icbc.com.cn.', 'NS'), ('tns1.icbc.com.cn.', 'NS')])
+100 times in 100.291ms
